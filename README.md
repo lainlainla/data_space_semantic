@@ -7,3 +7,5 @@ TIDE C 组用这个仓库研究数据空间的语义互操作，记录代码分�
 - [贡献指南](CONTRIBUTING.md)说明如何下载、提交修改和评估进度。
 
 项目材料见 [TIDE 项目任务书](teams_files/TIDE_Project_Requirements/TIDE_Research_Task_Plan.md)和 [C 组语义互操作任务清单](teams_files/TIDE_Project_Requirements/TIDE_C_Group_Semantic_Task_List.md)。清单可用于认领任务和核对交付证据。
+
+A 组的接口和交付约定见[跨组待议](跨组待议.md)。
